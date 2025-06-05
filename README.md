@@ -153,9 +153,26 @@ Understanding document classes helps tailor your formatting and structure. Try a
 ## Questions
 
 1. Why do we use type-set-description languages like LaTeX instead of WYSIWYG tools?
+
+Type-set-description languages like LaTeX offer precise control over formatting and structure, 
+making them ideal for complex documents. They ensure consistency and reproducibility, 
+unlike WYSIWYG tools that may introduce hidden formatting issues.
+
 2. How does LaTeX make automation easier, especially in academic or technical workflows?
+
+LaTeX separates content from style, allowing for easy scripting and batch generation of documents. 
+This is particularly useful for large-scale academic or technical publishing.
+
 3. Why is maintaining a consistent style easier with LaTeX?
+
+LaTeX uses predefined style rules and templates, which apply formatting uniformly across the document. 
+This eliminates manual adjustments and ensures consistency.
+
 4. What different `documentclass` options are available, and where can one find more?
+
+Common documentclass options include article, report, book, letter, and beamer. 
+More can be found in the LaTeX documentation or via CTAN (Comprehensive TeX Archive Network).
+https://www.latex-project.org/help/documentation/
 
 ---
 
